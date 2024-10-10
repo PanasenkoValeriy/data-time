@@ -1,21 +1,21 @@
 {
-  "name": "parcel-template",
+  "name": "data-time",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://PanasenkoValeriy.github.io/parcel-template",
+  "homepage": "https://PanasenkoValeriy.github.io/data-time",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-template/"
+    "build": "parcel build src/*.html --public-url /data-time/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PanasenkoValeriy/parcel-template.git"
+    "url": "git+https://github.com/PanasenkoValeriy/data-time.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PanasenkoValeriy/parcel-template/issues"
+    "url": "https://github.com/PanasenkoValeriy/data-time/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
